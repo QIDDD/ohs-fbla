@@ -137,11 +137,14 @@
 }
 
 .event-names {
-  padding: 10px 10px 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   background-color: rgba(220, 20, 60, .8);
   font-size: 20px;
   color: #efefef;
-  width: 450px;
+  width: 500px;
 }
 
 .event-names a {
