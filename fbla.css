@@ -125,6 +125,7 @@
 
 /*------Events------*/
 #events {
+  padding-top: 50px;
   padding-bottom: 50px;
 }
 
@@ -141,7 +142,7 @@
   background-color: rgba(220, 20, 60, .8);
   font-size: 20px;
   color: #efefef;
-  width: 200px;
+  width: 400px;
 }
 
 .event-names a {
