@@ -168,10 +168,12 @@ html {
   transition-duration: 1000ms;
 }
 
+/*
 span.anchor {
-    margin-top: -106px; /* height of nav, in this case 54px */
+    margin-top: -106px; 
     display: block;
-    height: 106px; /* height of nav, in this case 54px */
+    height: 106px; 
     visibility: hidden;
     position: relative;
 }
+*/
