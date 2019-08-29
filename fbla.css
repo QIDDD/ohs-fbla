@@ -85,11 +85,8 @@
 
 /*----Conferences*/
 #conferences {
-  background-image: linear-gradient(rgba(65,105,225,0.8), rgba(65,105,225,0.8)), url(images.png);
-  background-size: cover;
-  background-position: center;
+  background-image: linear-gradient(rgba(65,105,225,0.8), rgba(65,105,225,0.8));
   color: #efefef!important;
-  background-attachment: fixed;
   padding-top: 50px;
   padding-bottom: 50px;
 }
