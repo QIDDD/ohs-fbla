@@ -125,7 +125,6 @@
 
 /*------Events------*/
 #events {
-  padding-top: 50px;
   padding-bottom: 50px;
 }
 
@@ -138,11 +137,11 @@
 }
 
 .event-names {
-  padding: 10px 10px 10px;
+  padding: 50px 10px 50px;
   background-color: rgba(220, 20, 60, .8);
   font-size: 20px;
   color: #efefef;
-  width: 400px;
+  width: 450px;
 }
 
 .event-names a {
