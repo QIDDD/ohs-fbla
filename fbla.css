@@ -121,6 +121,10 @@
   font-size: 26px;
 }
 
+.filler {
+  height: 50px;
+}
+
 /*------Events------*/
 #events {
   color: #efefef!important;
@@ -128,8 +132,6 @@
   background-image: linear-gradient(rgba(220, 20, 60, .8), rgba(220, 20, 60, .8));
   margin-left: 500px;
   margin-right: 500px;
-  margin-top: 50px;
-  margin-bottom: 50px;
 }
 
 .col-md-4 {
@@ -182,17 +184,19 @@
   color: #fff;
 }
 
+.footer-color {
+  color: white;
+}
+
 html {
   scroll-behavior: smooth;
   transition-duration: 1000ms;
 }
 
-/*
+/*-----Offset------*/
 span.anchor {
     margin-top: -106px; 
     display: block;
     height: 106px; 
     visibility: hidden;
     position: relative;
-}
-*/
