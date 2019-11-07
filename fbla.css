@@ -84,10 +84,6 @@
   padding-bottom: 20px;
 }
 
-.center {
-  text-align: center;
-}
-
 /*----Conferences*/
 #conferences {
   background-image: linear-gradient(rgba(65,105,225,0.8), rgba(65,105,225,0.8));
@@ -128,17 +124,11 @@
 /*------Events------*/
 #events {
   color: #efefef!important;
-  text-align: center;
   background-image: linear-gradient(rgba(220, 20, 60, .8), rgba(220, 20, 60, .8));
-  margin-left: 500px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   margin-right: 500px;
-}
-
-.col-md-4 {
- margin-left: 80px;
- margin-right: 80px;
- margin-top: 40px;
- margin-bottom: 40px;
+  margin-left: 500px;
 }
 
 #events h2 {
@@ -154,10 +144,6 @@
   height: 3px;
   width: 170px;
   margin: 20px auto 5px;
-}
-
-.event-names {
-  width: 500px;
 }
 
 .event-names a {
