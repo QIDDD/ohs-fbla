@@ -179,8 +179,9 @@ html {
 
 /*-----Offset------*/
 span.anchor {
-    margin-top: -106px; 
-    display: block;
-    height: 106px; 
-    visibility: hidden;
-    position: relative;
+  margin-top: -106px;
+  height: 106px;
+  display: block;
+  visibility: hidden;
+  position: relative;
+}
